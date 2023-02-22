@@ -1,5 +1,6 @@
 body{
     height: 99vh;
+    background-color: #00487C;
 }
 
 #contenedor{
@@ -27,4 +28,8 @@ body{
 
 h1{
     margin-top: 40px;
+}
+
+#color{
+    background-color: #4C6768;
 }

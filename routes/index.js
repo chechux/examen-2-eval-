@@ -23,7 +23,7 @@ router.get('/index',(req, res,)=> {
 });
 
 router.get("/images,"),(req,res)=>{
-  res.render("/public/images")
+  res.render("images")
 }
   
 
