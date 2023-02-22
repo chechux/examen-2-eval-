@@ -1,0 +1,26 @@
+body{
+    height: 99vh;
+}
+
+#contenedor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 80vh;
+
+
+
+}
+
+#links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top:80px;
+}
+
+#imagen{
+    width: 75px;
+}
